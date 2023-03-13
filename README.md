@@ -1,1 +1,1 @@
-# Projket Detekcji znaku w RNS realizowany w ramach kursu Architektrura Komputerów 2
+# Projekt Detekcji znaku w RNS realizowany w ramach kursu Architektrura Komputerów 2
